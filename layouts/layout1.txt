@@ -1,0 +1,3 @@
+{hk1}>{-lctrl}{-lalt}{obrk}{+lctrl}{+lalt}
+{hk2}>{-lctrl}{-lalt}{cbrk}{+lctrl}{+lalt}
+[hk10]>[LED]
